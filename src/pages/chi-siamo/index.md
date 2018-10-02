@@ -2,6 +2,8 @@
 templateKey: about-page
 title: chi siamo
 ---
+![Sbrizio e Ele](/img/Rampina_chisiamo.png)
+
 ### Un'azienda biologica nel Parco agricolo della Valletta.
 
 Coltiviamo ortaggi e offriamo tutta la **verdura di stagione**. 
