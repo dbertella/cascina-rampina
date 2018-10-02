@@ -1,14 +1,11 @@
 ---
-templateKey: 'product-page'
-path: /products
-title: Our Coffee
-image: /img/jumbotron.jpg
-heading: What we offer
+templateKey: product-page
+title: Il Monticello
+image: /img/ilmonticello_web2-01.png
+heading: Sorbetto su stecco
 description: >-
-  Kaldi is the ultimate spot for coffee lovers who want to learn about their
-  java’s origin and support the farmers that grew it. We take coffee production,
-  roasting and brewing seriously and we’re glad to pass that knowledge to
-  anyone.
+  Il Monticello è una merenda sana che sa di natura: ingredienti semplici, tutti
+  di produzione locale, per una pausa rinfrescante dai mille sapori di stagione!
 intro:
   blurbs:
     - image: /img/coffee.png
@@ -99,3 +96,4 @@ pricing:
       plan: Custom
       price: '??'
 ---
+
