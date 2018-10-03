@@ -48,7 +48,8 @@ pricing:
     Non solo Il monticello e il mercatino bisettimanale in cui vendiamo verdura
     e frutta bio e di stagione ti proponiamo
   plans:
-    - description: >-
+    - image: /img/cassette_illustrazione2-01.png
+      description: >-
         L’orto in cassetta è un progetto rivolto ai GAS (gruppi di acquisto
         solidale). Ogni famiglia riceve ogni settimana una cassetta di verdura
         mista: come se avesse un piccolo orto,  l’assortimento di verdure cambia
@@ -59,8 +60,8 @@ pricing:
         - Cassetta media
         - Cassetta grossa
       plan: L’orto in cassetta
-      price: ''
-    - description: >-
+    - image: /img/marmellate2-01.png
+      description: >-
         Con frutta e verdura di nostra produzione confezioniamo deliziose bontà
         sotto vetro tutte da assaggiare. Tra le nostre specialità potrai
         trovare:
@@ -69,6 +70,5 @@ pricing:
         - Sottaceti
         - Miele
       plan: Conserve e confetture
-      price: '80'
 ---
 
