@@ -2,7 +2,7 @@
 templateKey: product-page
 title: Cascina Rampina
 image: /img/36382807_1796449437044392_5711797919422611456_n.jpg
-heading: Cascina Rampina
+heading: Il piccolo negozio
 description: >-
   E’ possibile acquistare direttamente i nostri prodotti nella nostra azienda
   agricola: verdura appena raccolta, piccoli frutti, conserve e confetture come
