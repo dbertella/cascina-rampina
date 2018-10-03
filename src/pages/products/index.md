@@ -32,7 +32,7 @@ main:
     image: /img/32845219_1744743128881690_30789452313919488_o.jpg
   image2:
     alt: Teo e Sbrizio insegnano ai bambini
-    image: /img/31369752_1806463589375225_7855038841960184790_n.jpg
+    image: /img/ilmonticello_web2-01.png
   image3:
     alt: Monticelli in fila
     image: /img/36382807_1796449437044392_5711797919422611456_n.jpg
@@ -41,7 +41,7 @@ testimonials:
     quote: È Buonissimo!
   - author: Fabrizio Mauri
     quote: Sembra di mangiare frutta appena colta
-full_image: /img/31369752_1806463589375225_7855038841960184790_n.jpg
+full_image: /img/ilmonticello_web2-01.png
 pricing:
   heading: Altri prodotti
   description: >-
