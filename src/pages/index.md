@@ -6,8 +6,7 @@ heading: Cascina Rampina
 description: >-
   E’ possibile acquistare direttamente i nostri prodotti nella nostra azienda
   agricola: verdura appena raccolta, piccoli frutti, conserve e confetture come
-  fatte in casa…  Orari del negozio:  martedi’ dalle 14 alle 19 sabato dalle 9
-  alle 12
+  fatte in casa
 intro:
   blurbs:
     - image: /img/coffee-gear.png
@@ -22,17 +21,19 @@ intro:
   description: >-
     E’ possibile acquistare direttamente i nostri prodotti nella nostra azienda
     agricola: verdura appena raccolta, piccoli frutti, conserve e confetture
-    come fatte in casa…  
-
-
+    come fatte in casa
+      
     Orari del negozio:  
 
     martedi’ dalle 14 alle 19 
 
     sabato dalle 9 alle 12
 main:
-  heading: Il sorbetto su stecco
-  description: 'A base di Yogurt, Miele e Frutta'
+  heading: Orari del negozio
+  description: |-
+    martedi’ dalle 14 alle 19  
+
+    sabato dalle 9 alle 12
   image1:
     alt: Fragole bio appena colte
     image: /img/32845219_1744743128881690_30789452313919488_o.jpg
