@@ -205,7 +205,7 @@ export const productPageQuery = graphql`
             description
             items
             plan
-            price
+            image
           }
         }
       }
