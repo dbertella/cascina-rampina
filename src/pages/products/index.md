@@ -43,32 +43,32 @@ testimonials:
     quote: Sembra di mangiare frutta appena colta
 full_image: /img/31369752_1806463589375225_7855038841960184790_n.jpg
 pricing:
-  heading: Monthly subscriptions
+  heading: Altri prodotti
   description: >-
     We make it easy to make great coffee a part of your life. Choose one of our
     monthly subscription plans to receive great coffee at your doorstep each
     month. Contact us about more details and payment info.
   plans:
-    - description: Perfect for the drinker who likes to enjoy 1-2 cups per day.
+    - description: >-
+        L’orto in cassetta è un progetto rivolto ai GAS (gruppi di acquisto
+        solidale). Ogni famiglia riceve ogni settimana una cassetta di verdura
+        mista: come se avesse un piccolo orto,  l’assortimento di verdure cambia
+        da aprile fino a ottobre facendo riscoprire la bontà della verdura
+        fresca e di stagione.
       items:
         - 3 lbs of coffee per month
         - Green or roasted beans"
         - One or two varieties of beans"
-      plan: Small
-      price: '50'
-    - description: 'Great for avid drinkers, java-loving couples and bigger crowds'
+      plan: L’orto in cassetta
+      price: ''
+    - description: >-
+        Con frutta e verdura di nostra produzione confezioniamo deliziose bontà
+        sotto vetro tutte da assaggiare.
       items:
         - 6 lbs of coffee per month
         - Green or roasted beans
         - Up to 4 different varieties of beans
-      plan: Big
+      plan: Conserve e confetture
       price: '80'
-    - description: Want a few tiny batches from different varieties? Try our custom plan
-      items:
-        - Whatever you need
-        - Green or roasted beans
-        - Unlimited varieties
-      plan: Custom
-      price: '??'
 ---
 
