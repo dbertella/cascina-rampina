@@ -45,29 +45,29 @@ full_image: /img/31369752_1806463589375225_7855038841960184790_n.jpg
 pricing:
   heading: Altri prodotti
   description: >-
-    We make it easy to make great coffee a part of your life. Choose one of our
-    monthly subscription plans to receive great coffee at your doorstep each
-    month. Contact us about more details and payment info.
+    Non solo Il monticello e il mercatino bisettimanale in cui vendiamo verdura
+    e frutta bio e di stagione ti proponiamo
   plans:
     - description: >-
         L’orto in cassetta è un progetto rivolto ai GAS (gruppi di acquisto
         solidale). Ogni famiglia riceve ogni settimana una cassetta di verdura
         mista: come se avesse un piccolo orto,  l’assortimento di verdure cambia
         da aprile fino a ottobre facendo riscoprire la bontà della verdura
-        fresca e di stagione.
+        fresca e di stagione:
       items:
-        - 3 lbs of coffee per month
-        - Green or roasted beans"
-        - One or two varieties of beans"
+        - Cassetta piccola
+        - Cassetta media
+        - Cassetta grossa
       plan: L’orto in cassetta
       price: ''
     - description: >-
         Con frutta e verdura di nostra produzione confezioniamo deliziose bontà
-        sotto vetro tutte da assaggiare.
+        sotto vetro tutte da assaggiare. Tra le nostre specialità potrai
+        trovare:
       items:
-        - 6 lbs of coffee per month
-        - Green or roasted beans
-        - Up to 4 different varieties of beans
+        - Conserve
+        - Sottaceti
+        - Miele
       plan: Conserve e confetture
       price: '80'
 ---
