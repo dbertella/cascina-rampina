@@ -1,7 +1,7 @@
 ---
 templateKey: product-page
 title: Cascina Rampina
-image: /img/36382807_1796449437044392_5711797919422611456_n.jpg
+image: /img/42320496_1922442131111788_8591088336179822592_o.jpg
 heading: Il piccolo negozio
 description: >-
   E’ possibile acquistare direttamente i nostri prodotti nella nostra azienda
@@ -36,19 +36,19 @@ main:
     sabato dalle 9 alle 12
   image1:
     alt: Fragole bio appena colte
-    image: /img/32845219_1744743128881690_30789452313919488_o.jpg
+    image: /img/37878295_1768365473277544_6727012937044590592_n.jpg
   image2:
     alt: Teo e Sbrizio insegnano ai bambini
-    image: /img/ilmonticello_web2-01.png
+    image: /img/37317899_649683052059771_5181886198766895104_n-1-.jpg
   image3:
     alt: Monticelli in fila
-    image: /img/36382807_1796449437044392_5711797919422611456_n.jpg
+    image: /img/36148283_446269152503623_7616774880528171008_n.jpg
 testimonials:
   - author: Nicola Bruni
-    quote: È Buonissimo!
+    quote: Cascina Rampina spacca!
   - author: Fabrizio Mauri
-    quote: Sembra di mangiare frutta appena colta
-full_image: /img/ilmonticello_web2-01.png
+    quote: C'è sempre profumo di casa
+full_image: /img/39039269_691320894550561_4340025591743905792_n.jpg
 pricing:
   heading: Altri prodotti
   description: >-
