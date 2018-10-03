@@ -9,14 +9,8 @@ description: >-
   fatte in casa
 intro:
   blurbs:
-    - image: /img/coffee-gear.png
-      text: Raccogliamo la nostra frutta bio
-    - image: /img/tutorials.png
-      text: La frulliamo con miele e yogurt
-    - image: /img/meeting-space.png
-      text: La versiamo negli stampini
-    - image: /img/coffee.png
-      text: La congeliamo ed è pronto da gustare!
+    - image: /img/mappa.png
+      text: 'Siamo in Via Donatello, 5, 23876 Monticello LC. Ti aspettiamo!'
   heading: Il piccolo negozio
   description: >-
     E’ possibile acquistare direttamente i nostri prodotti nella nostra azienda
