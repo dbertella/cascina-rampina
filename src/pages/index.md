@@ -1,11 +1,13 @@
 ---
 templateKey: product-page
-title: Il Monticello
+title: Cascina Rampina
 image: /img/36382807_1796449437044392_5711797919422611456_n.jpg
-heading: Sorbetto su stecco
+heading: Cascina Rampina
 description: >-
-  Il Monticello è una merenda sana che sa di natura: ingredienti semplici, tutti
-  di produzione locale, per una pausa rinfrescante dai mille sapori di stagione!
+  E’ possibile acquistare direttamente i nostri prodotti nella nostra azienda
+  agricola: verdura appena raccolta, piccoli frutti, conserve e confetture come
+  fatte in casa…  Orari del negozio:  martedi’ dalle 14 alle 19 sabato dalle 9
+  alle 12
 intro:
   blurbs:
     - image: /img/coffee-gear.png
@@ -16,14 +18,18 @@ intro:
       text: La versiamo negli stampini
     - image: /img/coffee.png
       text: La congeliamo ed è pronto da gustare!
-  heading: Sorbetto su stecco
+  heading: Il piccolo negozio
   description: >-
-    Il Monticello è una merenda sana che sa di natura: ingredienti semplici,
-    tutti di produzione locale, per una pausa rinfrescante dai mille sapori di
-    stagione!
+    E’ possibile acquistare direttamente i nostri prodotti nella nostra azienda
+    agricola: verdura appena raccolta, piccoli frutti, conserve e confetture
+    come fatte in casa…  
 
 
-    Ecco come si fa:
+    Orari del negozio:  
+
+    martedi’ dalle 14 alle 19 
+
+    sabato dalle 9 alle 12
 main:
   heading: Il sorbetto su stecco
   description: 'A base di Yogurt, Miele e Frutta'
