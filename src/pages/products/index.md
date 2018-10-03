@@ -1,7 +1,7 @@
 ---
 templateKey: product-page
 title: Il Monticello
-image: /img/ilmonticello_web2-01.png
+image: /img/36382807_1796449437044392_5711797919422611456_n.jpg
 heading: Sorbetto su stecco
 description: >-
   Il Monticello è una merenda sana che sa di natura: ingredienti semplici, tutti
