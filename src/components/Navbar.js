@@ -18,8 +18,8 @@ const Navbar = () => (
         <Link className="navbar-item" to="/chi-siamo">
           Chi siamo
         </Link>
-        <Link className="navbar-item" to="/products">
-          Prodotti
+        <Link className="navbar-item" to="/cosa-facciamo">
+          Cosa facciamo
         </Link>
         <Link className="navbar-item" to="/news">
           News
