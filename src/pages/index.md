@@ -1,7 +1,13 @@
 ---
+<<<<<<< Updated upstream
 templateKey: product-page
 title: 'Azienda Agricola Cascina Rampina '
 image: /img/fiori-zucchina.jpg
+=======
+templateKey: home-page
+title: Cascina Rampina
+image: /img/42320496_1922442131111788_8591088336179822592_o.jpg
+>>>>>>> Stashed changes
 heading: Il piccolo negozio
 description: >-
   E’ possibile acquistare direttamente i nostri prodotti nella nostra azienda
@@ -16,16 +22,16 @@ intro:
     E’ possibile acquistare direttamente i nostri prodotti nella nostra azienda
     agricola: verdura appena raccolta, piccoli frutti, conserve e confetture
     come fatte in casa
-      
-    Orari del negozio:  
 
-    martedi’ dalle 14 alle 19 
+    Orari del negozio:
+
+    martedi’ dalle 14 alle 19
 
     sabato dalle 9 alle 12
 main:
   heading: Orari del negozio
   description: |-
-    martedi’ dalle 14 alle 19  
+    martedi’ dalle 14 alle 19
 
     sabato dalle 9 alle 12
   image1:
