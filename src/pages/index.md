@@ -1,13 +1,7 @@
 ---
-<<<<<<< Updated upstream
-templateKey: product-page
-title: 'Azienda Agricola Cascina Rampina '
-image: /img/fiori-zucchina.jpg
-=======
 templateKey: home-page
-title: Cascina Rampina
-image: /img/42320496_1922442131111788_8591088336179822592_o.jpg
->>>>>>> Stashed changes
+title: Azienda Agricola Cascina Rampina
+image: /img/fiori-zucchina.jpg
 heading: Il piccolo negozio
 description: >-
   E’ possibile acquistare direttamente i nostri prodotti nella nostra azienda
