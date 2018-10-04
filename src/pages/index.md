@@ -1,6 +1,6 @@
 ---
 templateKey: product-page
-title: Cascina Rampina
+title: 'Azienda Agricola Cascina Rampina '
 image: /img/42320496_1922442131111788_8591088336179822592_o.jpg
 heading: Il piccolo negozio
 description: >-
