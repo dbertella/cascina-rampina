@@ -2,7 +2,6 @@ import React from 'react'
 import PropTypes from 'prop-types'
 import { graphql } from 'gatsby'
 import Layout from '../components/Layout'
-import Features from '../components/Features'
 import Testimonials from '../components/Testimonials'
 import Pricing from '../components/Pricing'
 
@@ -44,7 +43,21 @@ export const HomePageTemplate = ({
                 <p>{description}</p>
               </div>
             </div>
-            <Features gridItems={intro.blurbs} />
+            <div className="columns">
+              <div className="column">
+                <section className="section">
+                  <a
+                    href={intro.link}
+                    className="has-text-centered"
+                    target="_blank"
+                    rel="noopener noreferrer"
+                  >
+                    <img alt="" src={intro.image} />
+                  </a>
+                  <p>{intro.text}</p>
+                </section>
+              </div>
+            </div>
             <div className="columns">
               <div className="column is-7">
                 <h3 className="has-text-weight-semibold is-size-3">{main.heading}</h3>
@@ -105,7 +118,9 @@ HomePageTemplate.propTypes = {
   heading: PropTypes.string,
   description: PropTypes.string,
   intro: PropTypes.shape({
-    blurbs: PropTypes.array
+    image: PropTypes.string,
+    link: PropTypes.string,
+    text: PropTypes.string
   }),
   main: PropTypes.shape({
     heading: PropTypes.string,
@@ -162,10 +177,9 @@ export const homePageQuery = graphql`
         heading
         description
         intro {
-          blurbs {
-            image
-            text
-          }
+          image
+          link
+          text
           heading
           description
         }

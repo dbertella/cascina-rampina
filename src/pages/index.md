@@ -8,9 +8,9 @@ description: >-
   agricola: verdura appena raccolta, piccoli frutti, conserve e confetture come
   fatte in casa
 intro:
-  blurbs:
-    - image: /img/mappa.png
-      text: 'Siamo in Via Donatello, 5, 23876 Monticello LC. Ti aspettiamo!'
+  image: /img/mappa.png
+  link: https://www.google.it/maps?q=Via+Donatello+5,+Monticello+Brianza+LC&hl=it&ll=45.712413,9.30748&spn=0.009409,0.01929&sll=45.713282,9.307458&sspn=0.009409,0.01929&vpsrc=0&hnear=Via+Donatello,+5,+23876+Monticello+Brianza+Lecco,+Lombardia&t=h&z=16
+  text: 'Siamo in Via Donatello, 5, 23876 Monticello LC. Ti aspettiamo!'
   heading: Il piccolo negozio
   description: >-
     E’ possibile acquistare direttamente i nostri prodotti nella nostra azienda
