@@ -2,7 +2,7 @@ import React from 'react'
 import PropTypes from 'prop-types'
 // import { graphql } from 'gatsby'
 import Layout from '../components/Layout'
-import { navigateTo } from 'gatsby-link'
+import { navigate } from 'gatsby'
 
 function encode(data) {
   return Object.keys(data)
@@ -20,8 +20,6 @@ export default class ContactPage extends React.Component {
   handleSubmit = e => {
     e.preventDefault()
     const form = e.target
-    console.log(form)
-    debugger
     fetch('/', {
       method: 'POST',
       headers: { 'Content-Type': 'application/x-www-form-urlencoded' },
@@ -30,14 +28,11 @@ export default class ContactPage extends React.Component {
         ...this.state
       })
     })
-      .then(() => navigateTo(form.getAttribute('action')))
+      .then(() => navigate(form.getAttribute('action')))
       .catch(error => alert(error))
   }
 
   render() {
-    // const { data } = this.props
-    // const { edges: posts } = data.allMarkdownRemark
-
     return (
       <Layout>
         <section>
