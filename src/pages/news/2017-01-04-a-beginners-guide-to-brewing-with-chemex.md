@@ -8,6 +8,8 @@ description: |-
 tags:
   - festa
 ---
+![Festa d'autunno 2018 - 10 anni di Cascina Rampina](/img/43116088_1936985876324080_1241817333245149184_o.jpg)
+
 ## CHAPEAU!
 
 La festa d'autunno con tanto di cappello insieme agli amici di SpazioBizzarro un fine settimana di cose belle!
@@ -26,4 +28,4 @@ seminiamo il grano insieme e a seguire laboratorio per i più piccoli "dal chicc
 
 ore 17 APERITIVO musicale con le bontà del nostro forno e i Doc Brown! musica da agricoltura biologica con profonde radici nella Rampina!
 
-*Dress Code: un cappello!*
+_Dress Code: un cappello!_
