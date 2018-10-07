@@ -34,7 +34,7 @@ export default class NewsPage extends React.Component {
                     <br />
                     <br />
                     <Link className="button is-small" to={post.fields.slug}>
-                      Keep Reading →
+                      Leggi tutto →
                     </Link>
                   </p>
                 </div>
