@@ -8,14 +8,18 @@ description: >-
   di produzione locale, per una pausa rinfrescante dai mille sapori di stagione!
 intro:
   blurbs:
+    - image: /img/6.png
+      text: Ecco come lo facciamo
     - image: /img/1.png
       text: Raccogliamo la nostra frutta bio
-    - image: /img/3.png
-      text: La frulliamo con miele e yogurt
     - image: /img/2.png
+      text: La frulliamo con miele e yogurt
+    - image: /img/4.png
       text: La versiamo negli stampini
     - image: /img/4.png
-      text: La congeliamo ed è pronto da gustare!
+      text: La congeliamo...
+    - image: /img/5.png
+      text: ... ed è pronto da gustare!
   heading: Sorbetto su stecco
   description: >-
     Il Monticello è una merenda sana che sa di natura: ingredienti semplici,
