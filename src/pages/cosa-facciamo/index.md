@@ -14,7 +14,7 @@ intro:
       text: Raccogliamo la nostra frutta bio
     - image: /img/2.png
       text: La frulliamo con miele e yogurt
-    - image: /img/4.png
+    - image: /img/3.png
       text: La versiamo negli stampini
     - image: /img/4.png
       text: La congeliamo...
